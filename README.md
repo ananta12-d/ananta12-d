@@ -120,7 +120,7 @@ Includes:
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ananta-kishore-swain"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://linkedin.com/in/ananta-kishore-swain-6282472bb/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://instagram.com/fit.with_b2"><img src="https://skillicons.dev/icons?i=instagram"></a>
 <a href="https://youtube.com/@fitwithb2"><img src="https://skillicons.dev/icons?i=youtube"></a>
 </p>
