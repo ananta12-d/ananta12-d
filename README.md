@@ -1,119 +1,134 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Ananta Kishore Swain</h1>
-<h3 align="center">Software Developer | Flutter Developer | Full Stack Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack IoT Systems | Backend & Cloud</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Full+Stack+Developer;IoT+Enthusiast;Open+Source+Learner;Content+Creator+%40fit.with_b2&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+IoT+Engineer;Backend+Systems+Developer;Microservices+%7C+Cloud+%7C+Security;500%2B+IoT+Nodes+Handled;Content+Creator+%40fit.with_b2&center=true&width=600&height=50">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🔭 I’m currently working on  
-- Flutter applications  
-- Backend APIs and dashboards  
-- Automation tools  
+🚀 Software Engineer focused on **Full-Stack IoT Platforms, Secure Backend Systems, and Cloud Infrastructure**
+
+🔭 Currently working on  
+- Scalable IoT platforms (500+ active nodes)  
+- Secure backend systems with Zero-Trust architecture  
+- Microservices and real-time communication systems  
 
 🌱 Currently learning  
-- Clean Architecture  
-- Advanced Flutter  
-- Scalable Backend Systems  
+- Advanced system design & distributed systems  
+- Cloud architecture (AWS / GCP)  
+- Performance optimization at scale  
 
 💬 Ask me about  
-- Flutter  
-- C++ / Python  
-- Debugging and problem solving  
-- Dashboard systems  
+- FastAPI, Node.js, React  
+- IoT systems (MQTT, WebSockets, BLE)  
+- Microservices & backend architecture  
+- Debugging complex systems  
 
 ⚡ Fun fact  
-I also run a fitness page **@fit.with_b2** where I share fitness and lifestyle content.
+I also run a fitness content page **@fit.with_b2**
 
 ---
 
-# 💼 Professional Experience
+# 💼 Work Experience
 
-### Software Developer
-- Developing production level applications
-- API integrations and backend development
-- Dashboard and automation systems
-- Database management and optimization
+### 🏢 Software Engineer — Insectika Biotech (Bhubaneswar)
+📅 Oct 2025 – Present  
 
-### Embedded Software Engineer Intern
-- ESP32 and sensor integration
-- IoT systems
-- Device communication using MQTT
-- Hardware debugging
-
----
-
-# 🚀 Featured Projects
-
-### 📱 Flutter Expense Tracker
-A mobile app for tracking expenses and managing personal budgets.
-
-Features:
-- Budget tracking
-- Expense categorization
-- Monthly analytics
-- SQLite storage
+- Built **ThingsHub**, a full-stack IoT fleet platform handling **500+ devices**
+- Implemented **Zero-Trust security architecture** with encrypted communication
+- Designed **microservices system using RabbitMQ + WebSockets**
+- Developed **WireGuard VPN management system** for large-scale device connectivity
+- Reduced **manual device operations by 80%** via automation
+- Built OTA update pipelines for **zero-touch remote deployment**
+- Integrated BLE for real-time hardware diagnostics and control
 
 ---
 
-### 🎓 Programming Practice Platform
-A learning platform focused on **practice-based programming education**.
+### 💻 Hybrid App Developer — Static Consultancy  
+📅 Jul 2024 – Jan 2025  
 
-Includes:
-- C++ problem solving
-- Python exercises
-- Logic building challenges
+- Developed **cross-platform banking app using Flutter**
+- Ensured **100% UI consistency across Android & iOS**
+- Integrated secure APIs for real-time transaction handling
+
+---
+
+# 🚀 Key Projects
+
+### 🔥 ThingsHub — IoT Fleet Management Platform
+**Tech:** FastAPI, React, RabbitMQ, WebSockets, WireGuard, PostgreSQL, Redis, Docker  
+
+- Managed **500+ IoT nodes with real-time telemetry**
+- Remote shell execution via secure VPN tunnels  
+- Microservices architecture with event-driven system  
+- BLE-based hardware diagnostics  
+
+---
+
+### ⚙️ WDCP — Web Device Control Portal
+**Tech:** Python, FastAPI, SSH, FTP, Linux  
+
+- Automated OTA firmware updates  
+- Reduced maintenance downtime by **80%**  
+- Enabled **zero-touch deployment across distributed devices**
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
-
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![PHP](https://skillicons.dev/icons?i=php)
+### 💻 Languages
+Python • JavaScript (ES6+) • Dart • PHP • HTML5 • CSS3  
 
 ---
 
-### Mobile Development
-
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+### ⚙️ Frameworks & Libraries
+FastAPI • React • Node.js • Express.js • Vue.js • Flutter  
 
 ---
 
-### Backend Development
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+### 🗄 Databases
+PostgreSQL • Redis  
 
 ---
 
-### Databases
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+### ☁️ Cloud & DevOps
+Docker • CI/CD • Git/GitHub • Linux • Shell Scripting  
 
 ---
 
-### DevOps & Tools
+### 🌐 IoT & Networking
+MQTT (Mosquitto) • WebSockets • BLE • TCP/UDP • WireGuard VPN  
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
+---
+
+### 🧠 Architecture & Systems
+Microservices • REST APIs • RabbitMQ • Zero-Trust Security • OTA Systems  
+
+---
+
+# 🎓 Education
+
+🎓 **MCA (Artificial Intelligence)** *(Expected 2028)*  
+Manipal University Jaipur  
+
+🎓 **BCA** *(2022 – 2025)*  
+Creative Techno College, Odisha  
+
+---
+
+# 📜 Certifications
+
+- IBM Back-End Development (Node.js, Express)
+- IBM Front-End Development (React)
+- IBM Cloud Computing Fundamentals
+- IBM Linux & Shell Scripting
+- SAP Certified Mobile Developer
+- Selected for Cognizant GenC Analyst Role
 
 ---
 
@@ -121,6 +136,8 @@ Includes:
 
 <p align="left">
 <a href="https://linkedin.com/in/ananta-kishore-swain-6282472bb/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://github.com/ananta12-d"><img src="https://skillicons.dev/icons?i=github"></a>
+<a href="https://anantakishore.vercel.app"><img src="https://skillicons.dev/icons?i=webflow"></a>
 <a href="https://instagram.com/fit.with_b2"><img src="https://skillicons.dev/icons?i=instagram"></a>
 <a href="https://youtube.com/@fitwithb2"><img src="https://skillicons.dev/icons?i=youtube"></a>
 </p>
@@ -153,7 +170,7 @@ Includes:
 
 # ❤️ Support Me
 
-If you like my work you can support me here:
+If you like my work:
 
 ☕ Buy Me A Coffee  
 https://buymeacoffee.com/Anantaks
