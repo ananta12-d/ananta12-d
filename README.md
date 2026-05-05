@@ -1,132 +1,107 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Ananta Kishore Swain</h1>
-<h3 align="center">Software Engineer | Full-Stack IoT Systems | Backend & Cloud</h3>
+<h3 align="center">Applied AI Engineer | Generative AI & MLOps | Backend Architecture</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+IoT+Engineer;Backend+Systems+Developer;Microservices+%7C+Cloud+%7C+Security;500%2B+IoT+Nodes+Handled;Content+Creator+%40fit.with_b2&center=true&width=600&height=50">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Applied+AI+Engineer;Generative+AI+%26+LLMs;RAG+%26+Agentic+Systems;Backend+%26+MLOps;Content+Creator+%40fit.with_b2&center=true&width=600&height=50" alt="Typing SVG"></a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Software Engineer focused on **Full-Stack IoT Platforms, Secure Backend Systems, and Cloud Infrastructure**
+🚀 Software Engineer bridging the gap between **High-Performance Backend Infrastructure** and **Generative AI**. I don't just interface with AI APIs; I build the zero-trust, high-concurrency data pipelines required to deploy and scale AI models in enterprise environments.
 
-🔭 Currently working on  
-- Scalable IoT platforms (500+ active nodes)  
-- Secure backend systems with Zero-Trust architecture  
-- Microservices and real-time communication systems  
+🔭 **Currently working on:**  
+- Architecting Local RAG (Retrieval-Augmented Generation) pipelines for zero-cloud data privacy
+- Deploying Agentic LLMs (like dockerized Llama 3.1) for automated IoT fleet diagnostics
+- Building highly scalable data pipelines (MQTT/RabbitMQ) across 500+ active edge nodes
 
-🌱 Currently learning  
-- Advanced system design & distributed systems  
-- Cloud architecture (AWS / GCP)  
-- Performance optimization at scale  
+🌱 **Currently learning:**  
+- Advanced Vector Databases & Semantic Search optimization
+- High-Throughput LLM Serving (vLLM / Ollama)
+- Enterprise MLOps and Azure AI Cloud Architecture
 
-💬 Ask me about  
-- FastAPI, Node.js, React  
-- IoT systems (MQTT, WebSockets, BLE)  
-- Microservices & backend architecture  
-- Debugging complex systems  
+💬 **Ask me about:**  
+- Setting up local LLM inference and RAG architectures
+- Directed Acyclic Graph (DAG) systems and flow-based programming
+- Building secure REST APIs with Python (FastAPI) and Docker
+- Scaling real-time telemetry pipelines
 
-⚡ Fun fact  
-I also run a fitness content page **@fit.with_b2**
+⚡ **Fun fact:**  
+I also run a fitness content page driven by multi-modal AI workflows **@fit.with_b2**
 
 ---
 
 # 💼 Work Experience
 
-### 🏢 Software Engineer — Insectika Biotech (Bhubaneswar)
-📅 Oct 2025 – Present  
+### 🏢 Software Engineer — Applied AI, MLOps & Backend Architecture @ Insectika Biotech
+📅 Oct 2025 – Present  
 
-- Built **ThingsHub**, a full-stack IoT fleet platform handling **500+ devices**
-- Implemented **Zero-Trust security architecture** with encrypted communication
-- Designed **microservices system using RabbitMQ + WebSockets**
-- Developed **WireGuard VPN management system** for large-scale device connectivity
-- Reduced **manual device operations by 80%** via automation
-- Built OTA update pipelines for **zero-touch remote deployment**
-- Integrated BLE for real-time hardware diagnostics and control
+- **Agentic AI Deployment:** Engineered and dockerized "ThingsHub AI," a locally hosted 3B LLM (Llama 3.1) serving as an on-premise intelligent agent, eliminating reliance on costly third-party API tokens.
+- **AI-Ready Data Pipelines:** Architected real-time telemetry pipelines (MQTT, RabbitMQ) across 500+ edge nodes, structuring high-frequency data for downstream machine learning and vector search.
+- **Enterprise Impact:** Replaced costly SaaS vendors by building an in-house Zero-Trust IoT ecosystem, reducing infrastructure costs by 70-80% while maintaining 99.9% uptime.
 
----
+### 💻 Embedded Software Engineer — Edge Data & Infrastructure @ Insectika Biotech  
+📅 Oct 2025 – Feb 2026  
 
-### 💻 Hybrid App Developer — Static Consultancy  
-📅 Jul 2024 – Jan 2025  
-
-- Developed **cross-platform banking app using Flutter**
-- Ensured **100% UI consistency across Android & iOS**
-- Integrated secure APIs for real-time transaction handling
+- **DAG Architecture:** Built a custom Node-RED style visual flow editor mirroring modern Agentic AI workflow builders (e.g., Langflow) to orchestrate complex real-time data routing.
+- **ML Data Highways:** Deployed scalable VPN infrastructure (FastAPI, WireGuard) to establish secure, low-latency edge connections for 500+ simultaneous users, paving the way for remote AI inference.
+- **AI-Accelerated Dev:** Leveraged Generative AI for rapid prototyping, drastically reducing traditional development cycles for microservices.
 
 ---
 
-# 🚀 Key Projects
+# 🚀 Key AI & Systems Projects
 
-### 🔥 ThingsHub — IoT Fleet Management Platform
-**Tech:** FastAPI, React, RabbitMQ, WebSockets, WireGuard, PostgreSQL, Redis, Docker  
+### 🧠 AI Academic Success Tracker | Predictive ML & GenAI
+**Tech:** Python, Flask, Vue.js, Google Gemini, XGBoost, SHAP, JWT  
+- Combined XGBoost (Predictive ML) with Google Gemini (GenAI) to identify at-risk students and automatically generate personalized intervention plans.
+- Integrated Explainable AI (SHAP values) to provide educators with transparent reasoning behind the AI's predictions.
 
-- Managed **500+ IoT nodes with real-time telemetry**
-- Remote shell execution via secure VPN tunnels  
-- Microservices architecture with event-driven system  
-- BLE-based hardware diagnostics  
+### 🔒 Local RAG Assistant | Zero-Cloud Privacy
+**Tech:** Ollama, Llama 3, in-browser Vector Search, Vanilla JS  
+- Architected a 100% client-side Retrieval-Augmented Generation (RAG) pipeline to guarantee zero data leakage for sensitive document querying.
+- Engineered in-browser document parsing (OCR/PDF), chunking, and cosine similarity search without backend frameworks.
 
----
-
-### ⚙️ WDCP — Web Device Control Portal
-**Tech:** Python, FastAPI, SSH, FTP, Linux  
-
-- Automated OTA firmware updates  
-- Reduced maintenance downtime by **80%**  
-- Enabled **zero-touch deployment across distributed devices**
+### 🔥 ThingsHub & Flow-Based IoT Engine
+**Tech:** FastAPI, RabbitMQ, WebSockets, WireGuard, Node.js, HTML5 Canvas  
+- Built a production-scale IoT platform managing 500+ nodes with encrypted remote OTA updates.
+- Developed a real-time Execution Engine and drag-and-drop flow editor for dynamic hardware automation.
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
-Python • JavaScript (ES6+) • Dart • PHP • HTML5 • CSS3  
+### 🤖 AI & Machine Learning
+Generative AI • RAG Pipelines • Large Language Models (Llama 3.1, Gemini) • Vector Search • Ollama • XGBoost • SHAP (Explainable AI)
 
----
+### ⚙️ Backend & APIs
+Python (FastAPI) • Node.js (Express.js) • REST API Design • System Architecture
 
-### ⚙️ Frameworks & Libraries
-FastAPI • React • Node.js • Express.js • Vue.js • Flutter  
+### 🌐 Data & Event-Driven Systems
+MQTT (Mosquitto) • WebSockets • RabbitMQ • PostgreSQL • Redis • TimescaleDB
 
----
-
-### 🗄 Databases
-PostgreSQL • Redis  
-
----
-
-### ☁️ Cloud & DevOps
-Docker • CI/CD • Git/GitHub • Linux • Shell Scripting  
-
----
-
-### 🌐 IoT & Networking
-MQTT (Mosquitto) • WebSockets • BLE • TCP/UDP • WireGuard VPN  
-
----
-
-### 🧠 Architecture & Systems
-Microservices • REST APIs • RabbitMQ • Zero-Trust Security • OTA Systems  
+### ☁️ Cloud, MLOps & Infrastructure
+Docker • Zero-Trust Security • WireGuard VPN • Linux Shell Scripting • Git/GitHub
 
 ---
 
 # 🎓 Education
 
-🎓 **MCA (Artificial Intelligence)** *(Expected 2028)*  
-Manipal University Jaipur  
+🎓 **MCA (Artificial Intelligence)** *(Expected 2028)*  
+Manipal Institute of Technology  
 
-🎓 **BCA** *(2022 – 2025)*  
-Creative Techno College, Odisha  
+🎓 **BCA** *(2022 – 2025)*  
+Creative Techno College, Odisha  
 
 ---
 
-# 📜 Certifications
+# 📜 Highlights & Certifications
 
+- **Winner:** 2025 National Hackathon (App Spark) - Disaster Management System
 - IBM Back-End Development (Node.js, Express)
-- IBM Front-End Development (React)
 - IBM Cloud Computing Fundamentals
-- IBM Linux & Shell Scripting
 - SAP Certified Mobile Developer
 - Selected for Cognizant GenC Analyst Role
 
@@ -144,41 +119,13 @@ Creative Techno College, Odisha
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Ananta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananta12-d&show_icons=true&theme=tokyonight)
 
----
-
-# 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ananta12-d&theme=tokyonight)
-
----
-
-# 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananta12-d&layout=compact&theme=tokyonight)
 
 ---
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/ananta12-d/ananta12-d/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# ❤️ Support Me
-
-If you like my work:
-
-☕ Buy Me A Coffee  
-https://buymeacoffee.com/Anantaks
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=ananta12-d)
-
----
+*Building infrastructure that makes AI actually work in production.*
